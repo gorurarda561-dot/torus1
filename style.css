@@ -1,7 +1,13 @@
+body{
+    overflow: hidden;
+}
+html,body{
+    margin: 0; padding: 0; height: 100%; width: 100%;
+
+}
 model-viewer{
-    width: 1550px;
-    height: 750px;
-    margin-left: -10px;
+    height: 100%;
+    width: 100%;
     background-color: black;
-    position: relative; top: -10px;
+    
 }

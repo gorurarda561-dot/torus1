@@ -1,10 +1,6 @@
-
-                  model-viewer{
-                    width: 1550px;
-                    height: 750px;
-                    margin-left: -10px;
-                    background-color: black;
-
-
-                    
-                  }
+model-viewer{
+    width: 1550px;
+    height: 750px;
+    margin-left: -10px;
+    background-color: black;
+}

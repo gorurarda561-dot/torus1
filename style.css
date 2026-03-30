@@ -3,4 +3,5 @@ model-viewer{
     height: 750px;
     margin-left: -10px;
     background-color: black;
+    position: relative; top: -10px;
 }
